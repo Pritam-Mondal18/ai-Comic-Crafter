@@ -18,6 +18,7 @@ The objective of ComicCrafter AI is to develop an application capable of generat
 
 ## Phase 4: App Integration
 <ol><ul><li>Integrate the story generation, image generation, and merging modules into a single web application.</li><li>Optimize the app for efficient performance on edge devices.</li></ul></ol>
+
 ## Features
 ✅ AI-generated structured comic stories (Introduction, Storyline, Climax, Moral)  
 ✅ AI-generated comic-style images using <strong>Stable Diffusion XL</strong>  
