@@ -68,3 +68,6 @@ print(f"Streamlit app is live at: {public_url}")
 
 ## Challenges Faced
 <ul> <li><strong>Computational Constraints</strong> – Running <strong>Stable Diffusion XL</strong> without a dedicated GPU is slow. Solutions include cloud-based inference.</li> <li><strong>Story & Image Alignment</strong> – Ensuring AI-generated images match the context of the story is a challenge.</li> <li><strong>Fine-Tuning LLaMA 3</strong> – Adapting LLaMA 3 for structured comic storytelling requires iterative fine-tuning.</li> <li><strong>Real-Time Processing</strong> – Achieving low-latency text and image generation for an interactive experience.</li> </ul>
+
+## Contributing
+🚀 We welcome contributions! Feel free to fork the repo, submit pull requests, and enhance the project.
