@@ -42,3 +42,12 @@ login("YOUR_ACCESS_TOKEN")
 streamlit run app.py
 ```
 If running on <strong> Google Colab</strong>, use <strong> pyngrok </strong> to expose the app:
+```python
+!ngrok authtoken YOUR_ACCESS_TOKEN
+from pyngrok import ngrok
+import os
+os.system("streamlit run app.py &")
+public_url = ngrok.connect(8501)
+print(f"Streamlit app is live at: {public_url}")
+```
+
