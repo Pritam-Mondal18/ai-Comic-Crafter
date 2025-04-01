@@ -52,3 +52,9 @@ print(f"Streamlit app is live at: {public_url}")
 ```
 ## How to Use
 <ol> <li>1️⃣Enter your story elements (or let AI generate them for you).</li> <li>2️⃣Select a <strong>genre</strong> and <strong>comic style</strong>.</li> <li>3️⃣Click <strong>"Generate Story with AI"</strong> to auto-generate text.</li> <li>4️⃣Click <strong>"Generate Comic"</strong> to create AI-generated comic panels.</li> <li>5️⃣Download the comic as a ZIP file.</li> </ol>
+## Example Output
+### 📝 <strong>Story Example:</strong>
+
+<pre> Title: The Cyber Hero Introduction: In a futuristic city, a hacker discovers a government conspiracy. Storyline: He builds an AI-powered suit and fights for justice. Climax: A thrilling showdown against the corrupt cyber-police. Moral: Technology must be used for good, not oppression. </pre>
+🖼️ <strong>Generated Comic Panels:</strong>
+<img src="comic_panel_1.png" alt="Sample Comic Panel">
