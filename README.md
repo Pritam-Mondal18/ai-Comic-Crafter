@@ -26,3 +26,7 @@ AI Comic Crafter is a powerful AI-based application that generates unique comic 
 ```bash
 git clone https://github.com/your-username/AI-Comic-Crafter.git
 cd AI-Comic-Crafter
+
+### 1️⃣ Clone the Repository
+```bash
+pip install streamlit pyngrok llama-cpp-python torch diffusers transformers
