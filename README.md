@@ -37,4 +37,8 @@ You'll need an access token from <strong>Hugging Face</strong> to use <strong>St
 from huggingface_hub import login
 login("YOUR_ACCESS_TOKEN")
 ```
-
+### 4️⃣ Run the Application
+```bash
+streamlit run app.py
+```
+If running on <strong> Google Colab</strong>, use <strong> pyngrok </strong> to expose the app:
