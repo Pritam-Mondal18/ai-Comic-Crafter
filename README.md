@@ -33,3 +33,8 @@ pip install streamlit pyngrok llama-cpp-python torch diffusers transformers
 ```
 ### 3️⃣ Authenticate Hugging Face
 You'll need an access token from <strong>Hugging Face</strong> to use <strong>Stable Diffusion XL</strong>
+```python
+from huggingface_hub import login
+login("YOUR_ACCESS_TOKEN")
+```
+
