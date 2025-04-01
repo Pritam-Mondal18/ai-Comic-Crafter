@@ -50,4 +50,5 @@ os.system("streamlit run app.py &")
 public_url = ngrok.connect(8501)
 print(f"Streamlit app is live at: {public_url}")
 ```
-
+## How to Use
+<ol> <li>Enter your story elements (or let AI generate them for you).</li> <li>Select a <strong>genre</strong> and <strong>comic style</strong>.</li> <li>Click <strong>"Generate Story with AI"</strong> to auto-generate text.</li> <li>Click <strong>"Generate Comic"</strong> to create AI-generated comic panels.</li> <li>Download the comic as a ZIP file.</li> </ol>
