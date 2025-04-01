@@ -78,6 +78,9 @@ print(f"Streamlit app is live at: {public_url}")
 🖼️ <strong>Generated Comic Panels:</strong>
 
 <img src="comic_panel_1.png" alt="Sample Comic Panel">
+<img src="comic_panel_2.png" alt="Sample Comic Panel">
+<img src="comic_panel_3.png" alt="Sample Comic Panel">
+<img src="comic_panel_4.png" alt="Sample Comic Panel">
 
 ## Building the Architecture
 <p>The <strong>AI Comic Crafter</strong> follows a modular approach:</p> <ul> <li><strong>User Input Module</strong> – Collects user input (custom text or AI-generated story elements).</li> <li><strong>LLM-Based Story Generation</strong> – Uses <strong>LLaMA 3 / GPT-2</strong> to generate structured comic stories.</li> <li><strong>Image Generation Module</strong> – Uses <strong>Stable Diffusion XL</strong> to create images corresponding to the story panels.</li> <li><strong>Rendering & Display Module</strong> – Displays the generated comic story and images in <strong>Streamlit</strong> UI.</li> <li><strong>Download Module</strong> – Allows users to download the generated comic as a ZIP file.</li> </ul>
