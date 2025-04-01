@@ -57,7 +57,8 @@ print(f"Streamlit app is live at: {public_url}")
 
 ### 📝 <strong>Story Example:</strong>
 
-<pre> Title: The Cyber Hero <br/>Introduction: In a futuristic city, a hacker discovers a government conspiracy. Storyline: He builds an AI-powered suit and fights for justice. Climax: A thrilling showdown against the corrupt cyber-police. Moral: Technology must be used for good, not oppression. </pre>
+<pre> Title: The Cyber Hero<br/>Introduction: In a futuristic city, a hacker discovers a government conspiracy.<br/>Storyline: He builds an AI-powered suit and fights for justice.<br/>Climax: A thrilling showdown against the corrupt cyber-police.<br/>Moral: Technology must be used for good, not oppression. </pre>
+
 🖼️ <strong>Generated Comic Panels:</strong>
 
 <img src="comic_panel_1.png" alt="Sample Comic Panel">
