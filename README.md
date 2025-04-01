@@ -30,3 +30,6 @@ cd AI-Comic-Crafter
 ### 2️⃣ Install Dependencies
 ```bash
 pip install streamlit pyngrok llama-cpp-python torch diffusers transformers
+```
+### 3️⃣ Authenticate Hugging Face
+You'll need an access token from <strong>Hugging Face</strong> to use <strong>Stable Diffusion XL</strong>
