@@ -10,6 +10,11 @@ The objective of ComicCrafter AI is to develop an application capable of generat
 ## Phase 1: LLM Story Generation
 <ol><ul><li>Develop a module that generates a coherent story using LLMs based on the user’s prompt.</li><li>he story is divided into four parts: introduction, storyline, climax, and moral.</li></ul></ol>
 
+## Phase 2: Image Generation
+<ol><ul><li>Develop a module that generates images corresponding to each story part using AI-based image generation tools like Stable Diffusion.</li><li>Ensure that the images are coherent with the story.</li></ul></ol>
+
+## Phase 3: Merging Story and Images
+<ol><ul><li>Create a system to merge the generated text and images into a cohesive comic book format.</li><li>Ensure proper alignment and formatting of the text and images.</li></ul></ol>
 ## Features
 ✅ AI-generated structured comic stories (Introduction, Storyline, Climax, Moral)  
 ✅ AI-generated comic-style images using <strong>Stable Diffusion XL</strong>  
