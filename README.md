@@ -71,3 +71,6 @@ print(f"Streamlit app is live at: {public_url}")
 
 ## Contributing
 🚀 We welcome contributions! Feel free to fork the repo, submit pull requests, and enhance the project.
+## License
+📜 This project is licensed under the <strong>MIT License</strong>.
+
