@@ -3,6 +3,9 @@
 ## Introduction
 AI Comic Crafter is a powerful AI-based application that generates unique comic stories based on user-provided prompts. It integrates <strong>LLaMA 3 for text generation</strong> and <strong>Stable Diffusion XL for image creation</strong>, seamlessly combining storytelling with AI-generated visuals. This project is designed to make comic creation accessible and effortless for everyone.
 
+## Problem Description
+<pre>The objective of ComicCrafter AI is to develop an application capable of generating a comic book-style short story based on a user-provided prompt. The application should generate a story split into four parts: introduction, storyline, climax, and moral. The project will be executed in four distinct phases:</pre>
+
 ## Features
 ✅ AI-generated structured comic stories (Introduction, Storyline, Climax, Moral)  
 ✅ AI-generated comic-style images using <strong>Stable Diffusion XL</strong>  
