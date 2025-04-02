@@ -35,6 +35,7 @@ The objective of ComicCrafter AI is to develop an application capable of generat
     <li><strong>Hugging Face Diffusers</strong></li>
     <li><strong>Pyngrok</strong> (for public access via Colab)</li>
 </ul>
+
 ## User Interface
 
 ![WhatsApp Image 2025-04-02 at 12 15 26 AM](https://github.com/user-attachments/assets/e55f478c-eb0e-4dc3-bba8-4badcc094613)
