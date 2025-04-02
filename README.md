@@ -79,12 +79,10 @@ print(f"Streamlit app is live at: {public_url}")
 
 <pre>Title: The Cyber Hero<br/>Introduction: In a futuristic city, a hacker discovers a government conspiracy.<br/>Storyline: He builds an AI-powered suit and fights for justice.<br/>Climax: A thrilling showdown against the corrupt cyber-police.<br/>Moral: Technology must be used for good, not oppression. </pre>
 
-🖼️ <strong>Generated Comic Panels:</strong>
+🖼️ <strong>Generated Comic Panels:</strong>![WhatsApp Image 2025-04-02 at 8 40 47 PM](https://github.com/user-attachments/assets/8ba43fdc-422f-4f8b-9f44-3b0f13a0a1c4)
 
-<img src="comic_panel_1.png" alt="Sample Comic Panel">
-<img src="comic_panel_2.png" alt="Sample Comic Panel">
-<img src="comic_panel_3.png" alt="Sample Comic Panel">
-<img src="comic_panel_4.png" alt="Sample Comic Panel">
+
+
 
 ## Building the Architecture
 <p>The <strong>AI Comic Crafter</strong> follows a modular approach:</p> <ul> <li><strong>User Input Module</strong> – Collects user input (custom text or AI-generated story elements).</li> <li><strong>LLM-Based Story Generation</strong> – Uses <strong>LLaMA 3 / GPT-2</strong> to generate structured comic stories.</li> <li><strong>Image Generation Module</strong> – Uses <strong>Stable Diffusion XL</strong> to create images corresponding to the story panels.</li> <li><strong>Rendering & Display Module</strong> – Displays the generated comic story and images in <strong>Streamlit</strong> UI.</li> <li><strong>Download Module</strong> – Allows users to download the generated comic as a ZIP file.</li> </ul>
