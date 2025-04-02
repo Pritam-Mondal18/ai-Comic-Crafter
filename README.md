@@ -79,7 +79,8 @@ print(f"Streamlit app is live at: {public_url}")
 
 <pre>Title: The Cyber Hero<br/>Introduction: In a futuristic city, a hacker discovers a government conspiracy.<br/>Storyline: He builds an AI-powered suit and fights for justice.<br/>Climax: A thrilling showdown against the corrupt cyber-police.<br/>Moral: Technology must be used for good, not oppression. </pre>
 
-🖼️ <strong>Generated Comic Panels:</strong>![WhatsApp Image 2025-04-02 at 8 40 47 PM](https://github.com/user-attachments/assets/8ba43fdc-422f-4f8b-9f44-3b0f13a0a1c4)
+## 🖼️ <strong>Generated Comic Panels:
+</strong>![WhatsApp Image 2025-04-02 at 8 40 47 PM](https://github.com/user-attachments/assets/8ba43fdc-422f-4f8b-9f44-3b0f13a0a1c4)
 
 
 
